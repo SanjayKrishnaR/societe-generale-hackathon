@@ -1,0 +1,214 @@
+Incident_ID,Incident_Type,Description,Date,Location,Status,Resolution_ID,Resolution
+1,Unauthorized Access,Unauthorized login attempt detected,2023-08-01,Main Office,Open,101,Change access credentials and implement two-factor authentication.
+1,Unauthorized Access,Unauthorized login attempt detected,2023-08-01,Main Office,Open,104,Restrict network access for the affected user account.
+1,Unauthorized Access,Unauthorized login attempt detected,2023-08-01,Main Office,Open,108,Enhance network access controls and monitoring.
+1,Unauthorized Access,Unauthorized login attempt detected,2023-08-01,Main Office,Open,111,Implement intrusion detection and prevention.
+1,Unauthorized Access,Unauthorized login attempt detected,2023-08-01,Main Office,Open,114,Conduct user access review and auditing.
+1,Unauthorized Access,Unauthorized login attempt detected,2023-08-01,Main Office,Open,117,Implement security information and event management (SIEM) system.
+1,Unauthorized Access,Unauthorized login attempt detected,2023-08-01,Main Office,Open,120,Enhance network segmentation.
+1,Unauthorized Access,Unauthorized login attempt detected,2023-08-01,Main Office,Open,123,Conduct employee cybersecurity training.
+1,Unauthorized Access,Unauthorized login attempt detected,2023-08-01,Main Office,Open,125,Enhance authentication and authorization mechanisms.
+2,Unauthorized Access,Intrusion detected on server,2023-08-02,Data Center,Open,101,Change access credentials and implement two-factor authentication.
+2,Unauthorized Access,Intrusion detected on server,2023-08-02,Data Center,Open,104,Restrict network access for the affected user account.
+2,Unauthorized Access,Intrusion detected on server,2023-08-02,Data Center,Open,108,Enhance network access controls and monitoring.
+2,Unauthorized Access,Intrusion detected on server,2023-08-02,Data Center,Open,111,Implement intrusion detection and prevention.
+2,Unauthorized Access,Intrusion detected on server,2023-08-02,Data Center,Open,114,Conduct user access review and auditing.
+2,Unauthorized Access,Intrusion detected on server,2023-08-02,Data Center,Open,117,Implement security information and event management (SIEM) system.
+2,Unauthorized Access,Intrusion detected on server,2023-08-02,Data Center,Open,120,Enhance network segmentation.
+2,Unauthorized Access,Intrusion detected on server,2023-08-02,Data Center,Open,123,Conduct employee cybersecurity training.
+2,Unauthorized Access,Intrusion detected on server,2023-08-02,Data Center,Open,125,Enhance authentication and authorization mechanisms.
+5,Unauthorized Access,Unauthorized access to database,2023-08-05,Main Office,Open,101,Change access credentials and implement two-factor authentication.
+5,Unauthorized Access,Unauthorized access to database,2023-08-05,Main Office,Open,104,Restrict network access for the affected user account.
+5,Unauthorized Access,Unauthorized access to database,2023-08-05,Main Office,Open,108,Enhance network access controls and monitoring.
+5,Unauthorized Access,Unauthorized access to database,2023-08-05,Main Office,Open,111,Implement intrusion detection and prevention.
+5,Unauthorized Access,Unauthorized access to database,2023-08-05,Main Office,Open,114,Conduct user access review and auditing.
+5,Unauthorized Access,Unauthorized access to database,2023-08-05,Main Office,Open,117,Implement security information and event management (SIEM) system.
+5,Unauthorized Access,Unauthorized access to database,2023-08-05,Main Office,Open,120,Enhance network segmentation.
+5,Unauthorized Access,Unauthorized access to database,2023-08-05,Main Office,Open,123,Conduct employee cybersecurity training.
+5,Unauthorized Access,Unauthorized access to database,2023-08-05,Main Office,Open,125,Enhance authentication and authorization mechanisms.
+8,Unauthorized Access,Unauthorized user login,2023-08-08,Data Center,Open,101,Change access credentials and implement two-factor authentication.
+8,Unauthorized Access,Unauthorized user login,2023-08-08,Data Center,Open,104,Restrict network access for the affected user account.
+8,Unauthorized Access,Unauthorized user login,2023-08-08,Data Center,Open,108,Enhance network access controls and monitoring.
+8,Unauthorized Access,Unauthorized user login,2023-08-08,Data Center,Open,111,Implement intrusion detection and prevention.
+8,Unauthorized Access,Unauthorized user login,2023-08-08,Data Center,Open,114,Conduct user access review and auditing.
+8,Unauthorized Access,Unauthorized user login,2023-08-08,Data Center,Open,117,Implement security information and event management (SIEM) system.
+8,Unauthorized Access,Unauthorized user login,2023-08-08,Data Center,Open,120,Enhance network segmentation.
+8,Unauthorized Access,Unauthorized user login,2023-08-08,Data Center,Open,123,Conduct employee cybersecurity training.
+8,Unauthorized Access,Unauthorized user login,2023-08-08,Data Center,Open,125,Enhance authentication and authorization mechanisms.
+10,Unauthorized Access,Attempted intrusion on firewall,2023-08-10,Remote Office,Open,101,Change access credentials and implement two-factor authentication.
+10,Unauthorized Access,Attempted intrusion on firewall,2023-08-10,Remote Office,Open,104,Restrict network access for the affected user account.
+10,Unauthorized Access,Attempted intrusion on firewall,2023-08-10,Remote Office,Open,108,Enhance network access controls and monitoring.
+10,Unauthorized Access,Attempted intrusion on firewall,2023-08-10,Remote Office,Open,111,Implement intrusion detection and prevention.
+10,Unauthorized Access,Attempted intrusion on firewall,2023-08-10,Remote Office,Open,114,Conduct user access review and auditing.
+10,Unauthorized Access,Attempted intrusion on firewall,2023-08-10,Remote Office,Open,117,Implement security information and event management (SIEM) system.
+10,Unauthorized Access,Attempted intrusion on firewall,2023-08-10,Remote Office,Open,120,Enhance network segmentation.
+10,Unauthorized Access,Attempted intrusion on firewall,2023-08-10,Remote Office,Open,123,Conduct employee cybersecurity training.
+10,Unauthorized Access,Attempted intrusion on firewall,2023-08-10,Remote Office,Open,125,Enhance authentication and authorization mechanisms.
+12,Unauthorized Access,Unauthorized access to server,2023-08-12,Branch Office A,Open,101,Change access credentials and implement two-factor authentication.
+12,Unauthorized Access,Unauthorized access to server,2023-08-12,Branch Office A,Open,104,Restrict network access for the affected user account.
+12,Unauthorized Access,Unauthorized access to server,2023-08-12,Branch Office A,Open,108,Enhance network access controls and monitoring.
+12,Unauthorized Access,Unauthorized access to server,2023-08-12,Branch Office A,Open,111,Implement intrusion detection and prevention.
+12,Unauthorized Access,Unauthorized access to server,2023-08-12,Branch Office A,Open,114,Conduct user access review and auditing.
+12,Unauthorized Access,Unauthorized access to server,2023-08-12,Branch Office A,Open,117,Implement security information and event management (SIEM) system.
+12,Unauthorized Access,Unauthorized access to server,2023-08-12,Branch Office A,Open,120,Enhance network segmentation.
+12,Unauthorized Access,Unauthorized access to server,2023-08-12,Branch Office A,Open,123,Conduct employee cybersecurity training.
+12,Unauthorized Access,Unauthorized access to server,2023-08-12,Branch Office A,Open,125,Enhance authentication and authorization mechanisms.
+13,Unauthorized Access,Intrusion detected on network,2023-08-13,Main Office,Open,101,Change access credentials and implement two-factor authentication.
+13,Unauthorized Access,Intrusion detected on network,2023-08-13,Main Office,Open,104,Restrict network access for the affected user account.
+13,Unauthorized Access,Intrusion detected on network,2023-08-13,Main Office,Open,108,Enhance network access controls and monitoring.
+13,Unauthorized Access,Intrusion detected on network,2023-08-13,Main Office,Open,111,Implement intrusion detection and prevention.
+13,Unauthorized Access,Intrusion detected on network,2023-08-13,Main Office,Open,114,Conduct user access review and auditing.
+13,Unauthorized Access,Intrusion detected on network,2023-08-13,Main Office,Open,117,Implement security information and event management (SIEM) system.
+13,Unauthorized Access,Intrusion detected on network,2023-08-13,Main Office,Open,120,Enhance network segmentation.
+13,Unauthorized Access,Intrusion detected on network,2023-08-13,Main Office,Open,123,Conduct employee cybersecurity training.
+13,Unauthorized Access,Intrusion detected on network,2023-08-13,Main Office,Open,125,Enhance authentication and authorization mechanisms.
+16,Unauthorized Access,Unauthorized login attempt detected,2023-08-16,Remote Office,Open,101,Change access credentials and implement two-factor authentication.
+16,Unauthorized Access,Unauthorized login attempt detected,2023-08-16,Remote Office,Open,104,Restrict network access for the affected user account.
+16,Unauthorized Access,Unauthorized login attempt detected,2023-08-16,Remote Office,Open,108,Enhance network access controls and monitoring.
+16,Unauthorized Access,Unauthorized login attempt detected,2023-08-16,Remote Office,Open,111,Implement intrusion detection and prevention.
+16,Unauthorized Access,Unauthorized login attempt detected,2023-08-16,Remote Office,Open,114,Conduct user access review and auditing.
+16,Unauthorized Access,Unauthorized login attempt detected,2023-08-16,Remote Office,Open,117,Implement security information and event management (SIEM) system.
+16,Unauthorized Access,Unauthorized login attempt detected,2023-08-16,Remote Office,Open,120,Enhance network segmentation.
+16,Unauthorized Access,Unauthorized login attempt detected,2023-08-16,Remote Office,Open,123,Conduct employee cybersecurity training.
+16,Unauthorized Access,Unauthorized login attempt detected,2023-08-16,Remote Office,Open,125,Enhance authentication and authorization mechanisms.
+18,Unauthorized Access,Unauthorized user login,2023-08-18,Main Office,Open,101,Change access credentials and implement two-factor authentication.
+18,Unauthorized Access,Unauthorized user login,2023-08-18,Main Office,Open,104,Restrict network access for the affected user account.
+18,Unauthorized Access,Unauthorized user login,2023-08-18,Main Office,Open,108,Enhance network access controls and monitoring.
+18,Unauthorized Access,Unauthorized user login,2023-08-18,Main Office,Open,111,Implement intrusion detection and prevention.
+18,Unauthorized Access,Unauthorized user login,2023-08-18,Main Office,Open,114,Conduct user access review and auditing.
+18,Unauthorized Access,Unauthorized user login,2023-08-18,Main Office,Open,117,Implement security information and event management (SIEM) system.
+18,Unauthorized Access,Unauthorized user login,2023-08-18,Main Office,Open,120,Enhance network segmentation.
+18,Unauthorized Access,Unauthorized user login,2023-08-18,Main Office,Open,123,Conduct employee cybersecurity training.
+18,Unauthorized Access,Unauthorized user login,2023-08-18,Main Office,Open,125,Enhance authentication and authorization mechanisms.
+21,Unauthorized Access,Unauthorized access to sensitive data,2023-08-21,Branch Office A,Open,101,Change access credentials and implement two-factor authentication.
+21,Unauthorized Access,Unauthorized access to sensitive data,2023-08-21,Branch Office A,Open,104,Restrict network access for the affected user account.
+21,Unauthorized Access,Unauthorized access to sensitive data,2023-08-21,Branch Office A,Open,108,Enhance network access controls and monitoring.
+21,Unauthorized Access,Unauthorized access to sensitive data,2023-08-21,Branch Office A,Open,111,Implement intrusion detection and prevention.
+21,Unauthorized Access,Unauthorized access to sensitive data,2023-08-21,Branch Office A,Open,114,Conduct user access review and auditing.
+21,Unauthorized Access,Unauthorized access to sensitive data,2023-08-21,Branch Office A,Open,117,Implement security information and event management (SIEM) system.
+21,Unauthorized Access,Unauthorized access to sensitive data,2023-08-21,Branch Office A,Open,120,Enhance network segmentation.
+21,Unauthorized Access,Unauthorized access to sensitive data,2023-08-21,Branch Office A,Open,123,Conduct employee cybersecurity training.
+21,Unauthorized Access,Unauthorized access to sensitive data,2023-08-21,Branch Office A,Open,125,Enhance authentication and authorization mechanisms.
+23,Unauthorized Access,Unauthorized login attempt detected,2023-08-23,Main Office,Open,101,Change access credentials and implement two-factor authentication.
+23,Unauthorized Access,Unauthorized login attempt detected,2023-08-23,Main Office,Open,104,Restrict network access for the affected user account.
+23,Unauthorized Access,Unauthorized login attempt detected,2023-08-23,Main Office,Open,108,Enhance network access controls and monitoring.
+23,Unauthorized Access,Unauthorized login attempt detected,2023-08-23,Main Office,Open,111,Implement intrusion detection and prevention.
+23,Unauthorized Access,Unauthorized login attempt detected,2023-08-23,Main Office,Open,114,Conduct user access review and auditing.
+23,Unauthorized Access,Unauthorized login attempt detected,2023-08-23,Main Office,Open,117,Implement security information and event management (SIEM) system.
+23,Unauthorized Access,Unauthorized login attempt detected,2023-08-23,Main Office,Open,120,Enhance network segmentation.
+23,Unauthorized Access,Unauthorized login attempt detected,2023-08-23,Main Office,Open,123,Conduct employee cybersecurity training.
+23,Unauthorized Access,Unauthorized login attempt detected,2023-08-23,Main Office,Open,125,Enhance authentication and authorization mechanisms.
+25,Unauthorized Access,Intrusion detected on firewall,2023-08-25,Main Office,Open,101,Change access credentials and implement two-factor authentication.
+25,Unauthorized Access,Intrusion detected on firewall,2023-08-25,Main Office,Open,104,Restrict network access for the affected user account.
+25,Unauthorized Access,Intrusion detected on firewall,2023-08-25,Main Office,Open,108,Enhance network access controls and monitoring.
+25,Unauthorized Access,Intrusion detected on firewall,2023-08-25,Main Office,Open,111,Implement intrusion detection and prevention.
+25,Unauthorized Access,Intrusion detected on firewall,2023-08-25,Main Office,Open,114,Conduct user access review and auditing.
+25,Unauthorized Access,Intrusion detected on firewall,2023-08-25,Main Office,Open,117,Implement security information and event management (SIEM) system.
+25,Unauthorized Access,Intrusion detected on firewall,2023-08-25,Main Office,Open,120,Enhance network segmentation.
+25,Unauthorized Access,Intrusion detected on firewall,2023-08-25,Main Office,Open,123,Conduct employee cybersecurity training.
+25,Unauthorized Access,Intrusion detected on firewall,2023-08-25,Main Office,Open,125,Enhance authentication and authorization mechanisms.
+3,Denial of Service,DDoS attack on web server,2023-08-03,Main Office,Open,102,Apply traffic filtering rules to mitigate the attack.
+3,Denial of Service,DDoS attack on web server,2023-08-03,Main Office,Open,105,Implement rate limiting and traffic monitoring.
+3,Denial of Service,DDoS attack on web server,2023-08-03,Main Office,Open,107,Redirect traffic through a DDoS mitigation service.
+3,Denial of Service,DDoS attack on web server,2023-08-03,Main Office,Open,109,Apply load balancing to distribute traffic.
+3,Denial of Service,DDoS attack on web server,2023-08-03,Main Office,Open,112,Implement IP reputation filtering.
+3,Denial of Service,DDoS attack on web server,2023-08-03,Main Office,Open,115,Utilize content delivery network (CDN) for traffic distribution.
+3,Denial of Service,DDoS attack on web server,2023-08-03,Main Office,Open,118,Deploy anti-virus and anti-malware measures.
+3,Denial of Service,DDoS attack on web server,2023-08-03,Main Office,Open,121,Utilize intrusion prevention system (IPS).
+3,Denial of Service,DDoS attack on web server,2023-08-03,Main Office,Open,124,Utilize cloud-based DDoS protection services.
+7,Denial of Service,Service disruption due to traffic spike,2023-08-07,Main Office,Open,102,Apply traffic filtering rules to mitigate the attack.
+7,Denial of Service,Service disruption due to traffic spike,2023-08-07,Main Office,Open,105,Implement rate limiting and traffic monitoring.
+7,Denial of Service,Service disruption due to traffic spike,2023-08-07,Main Office,Open,107,Redirect traffic through a DDoS mitigation service.
+7,Denial of Service,Service disruption due to traffic spike,2023-08-07,Main Office,Open,109,Apply load balancing to distribute traffic.
+7,Denial of Service,Service disruption due to traffic spike,2023-08-07,Main Office,Open,112,Implement IP reputation filtering.
+7,Denial of Service,Service disruption due to traffic spike,2023-08-07,Main Office,Open,115,Utilize content delivery network (CDN) for traffic distribution.
+7,Denial of Service,Service disruption due to traffic spike,2023-08-07,Main Office,Open,118,Deploy anti-virus and anti-malware measures.
+7,Denial of Service,Service disruption due to traffic spike,2023-08-07,Main Office,Open,121,Utilize intrusion prevention system (IPS).
+7,Denial of Service,Service disruption due to traffic spike,2023-08-07,Main Office,Open,124,Utilize cloud-based DDoS protection services.
+9,Denial of Service,DDoS attack on email server,2023-08-09,Branch Office B,Open,102,Apply traffic filtering rules to mitigate the attack.
+9,Denial of Service,DDoS attack on email server,2023-08-09,Branch Office B,Open,105,Implement rate limiting and traffic monitoring.
+9,Denial of Service,DDoS attack on email server,2023-08-09,Branch Office B,Open,107,Redirect traffic through a DDoS mitigation service.
+9,Denial of Service,DDoS attack on email server,2023-08-09,Branch Office B,Open,109,Apply load balancing to distribute traffic.
+9,Denial of Service,DDoS attack on email server,2023-08-09,Branch Office B,Open,112,Implement IP reputation filtering.
+9,Denial of Service,DDoS attack on email server,2023-08-09,Branch Office B,Open,115,Utilize content delivery network (CDN) for traffic distribution.
+9,Denial of Service,DDoS attack on email server,2023-08-09,Branch Office B,Open,118,Deploy anti-virus and anti-malware measures.
+9,Denial of Service,DDoS attack on email server,2023-08-09,Branch Office B,Open,121,Utilize intrusion prevention system (IPS).
+9,Denial of Service,DDoS attack on email server,2023-08-09,Branch Office B,Open,124,Utilize cloud-based DDoS protection services.
+14,Denial of Service,Service disruption due to resource exhaustion,2023-08-14,Data Center,Open,102,Apply traffic filtering rules to mitigate the attack.
+14,Denial of Service,Service disruption due to resource exhaustion,2023-08-14,Data Center,Open,105,Implement rate limiting and traffic monitoring.
+14,Denial of Service,Service disruption due to resource exhaustion,2023-08-14,Data Center,Open,107,Redirect traffic through a DDoS mitigation service.
+14,Denial of Service,Service disruption due to resource exhaustion,2023-08-14,Data Center,Open,109,Apply load balancing to distribute traffic.
+14,Denial of Service,Service disruption due to resource exhaustion,2023-08-14,Data Center,Open,112,Implement IP reputation filtering.
+14,Denial of Service,Service disruption due to resource exhaustion,2023-08-14,Data Center,Open,115,Utilize content delivery network (CDN) for traffic distribution.
+14,Denial of Service,Service disruption due to resource exhaustion,2023-08-14,Data Center,Open,118,Deploy anti-virus and anti-malware measures.
+14,Denial of Service,Service disruption due to resource exhaustion,2023-08-14,Data Center,Open,121,Utilize intrusion prevention system (IPS).
+14,Denial of Service,Service disruption due to resource exhaustion,2023-08-14,Data Center,Open,124,Utilize cloud-based DDoS protection services.
+17,Denial of Service,DDoS attack on DNS server,2023-08-17,Branch Office B,Open,102,Apply traffic filtering rules to mitigate the attack.
+17,Denial of Service,DDoS attack on DNS server,2023-08-17,Branch Office B,Open,105,Implement rate limiting and traffic monitoring.
+17,Denial of Service,DDoS attack on DNS server,2023-08-17,Branch Office B,Open,107,Redirect traffic through a DDoS mitigation service.
+17,Denial of Service,DDoS attack on DNS server,2023-08-17,Branch Office B,Open,109,Apply load balancing to distribute traffic.
+17,Denial of Service,DDoS attack on DNS server,2023-08-17,Branch Office B,Open,112,Implement IP reputation filtering.
+17,Denial of Service,DDoS attack on DNS server,2023-08-17,Branch Office B,Open,115,Utilize content delivery network (CDN) for traffic distribution.
+17,Denial of Service,DDoS attack on DNS server,2023-08-17,Branch Office B,Open,118,Deploy anti-virus and anti-malware measures.
+17,Denial of Service,DDoS attack on DNS server,2023-08-17,Branch Office B,Open,121,Utilize intrusion prevention system (IPS).
+17,Denial of Service,DDoS attack on DNS server,2023-08-17,Branch Office B,Open,124,Utilize cloud-based DDoS protection services.
+20,Denial of Service,Service disruption due to amplification attack,2023-08-20,Main Office,Open,102,Apply traffic filtering rules to mitigate the attack.
+20,Denial of Service,Service disruption due to amplification attack,2023-08-20,Main Office,Open,105,Implement rate limiting and traffic monitoring.
+20,Denial of Service,Service disruption due to amplification attack,2023-08-20,Main Office,Open,107,Redirect traffic through a DDoS mitigation service.
+20,Denial of Service,Service disruption due to amplification attack,2023-08-20,Main Office,Open,109,Apply load balancing to distribute traffic.
+20,Denial of Service,Service disruption due to amplification attack,2023-08-20,Main Office,Open,112,Implement IP reputation filtering.
+20,Denial of Service,Service disruption due to amplification attack,2023-08-20,Main Office,Open,115,Utilize content delivery network (CDN) for traffic distribution.
+20,Denial of Service,Service disruption due to amplification attack,2023-08-20,Main Office,Open,118,Deploy anti-virus and anti-malware measures.
+20,Denial of Service,Service disruption due to amplification attack,2023-08-20,Main Office,Open,121,Utilize intrusion prevention system (IPS).
+20,Denial of Service,Service disruption due to amplification attack,2023-08-20,Main Office,Open,124,Utilize cloud-based DDoS protection services.
+22,Denial of Service,Service disruption due to botnet attack,2023-08-22,Remote Office,Open,102,Apply traffic filtering rules to mitigate the attack.
+22,Denial of Service,Service disruption due to botnet attack,2023-08-22,Remote Office,Open,105,Implement rate limiting and traffic monitoring.
+22,Denial of Service,Service disruption due to botnet attack,2023-08-22,Remote Office,Open,107,Redirect traffic through a DDoS mitigation service.
+22,Denial of Service,Service disruption due to botnet attack,2023-08-22,Remote Office,Open,109,Apply load balancing to distribute traffic.
+22,Denial of Service,Service disruption due to botnet attack,2023-08-22,Remote Office,Open,112,Implement IP reputation filtering.
+22,Denial of Service,Service disruption due to botnet attack,2023-08-22,Remote Office,Open,115,Utilize content delivery network (CDN) for traffic distribution.
+22,Denial of Service,Service disruption due to botnet attack,2023-08-22,Remote Office,Open,118,Deploy anti-virus and anti-malware measures.
+22,Denial of Service,Service disruption due to botnet attack,2023-08-22,Remote Office,Open,121,Utilize intrusion prevention system (IPS).
+22,Denial of Service,Service disruption due to botnet attack,2023-08-22,Remote Office,Open,124,Utilize cloud-based DDoS protection services.
+4,Data Breach,Confidential data leak detected,2023-08-04,Remote Office,Open,103,Isolate affected systems and conduct a forensic investigation.
+4,Data Breach,Confidential data leak detected,2023-08-04,Remote Office,Open,106,Initiate data breach response protocol.
+4,Data Breach,Confidential data leak detected,2023-08-04,Remote Office,Open,110,Encrypt sensitive data and enhance data security.
+4,Data Breach,Confidential data leak detected,2023-08-04,Remote Office,Open,113,Notify affected parties and authorities.
+4,Data Breach,Confidential data leak detected,2023-08-04,Remote Office,Open,116,Enhance firewall rules and access controls.
+4,Data Breach,Confidential data leak detected,2023-08-04,Remote Office,Open,119,Engage cybersecurity incident response team.
+4,Data Breach,Confidential data leak detected,2023-08-04,Remote Office,Open,122,Apply data loss prevention (DLP) measures.
+6,Data Breach,Data breach incident,2023-08-06,Branch Office A,Open,103,Isolate affected systems and conduct a forensic investigation.
+6,Data Breach,Data breach incident,2023-08-06,Branch Office A,Open,106,Initiate data breach response protocol.
+6,Data Breach,Data breach incident,2023-08-06,Branch Office A,Open,110,Encrypt sensitive data and enhance data security.
+6,Data Breach,Data breach incident,2023-08-06,Branch Office A,Open,113,Notify affected parties and authorities.
+6,Data Breach,Data breach incident,2023-08-06,Branch Office A,Open,116,Enhance firewall rules and access controls.
+6,Data Breach,Data breach incident,2023-08-06,Branch Office A,Open,119,Engage cybersecurity incident response team.
+6,Data Breach,Data breach incident,2023-08-06,Branch Office A,Open,122,Apply data loss prevention (DLP) measures.
+11,Data Breach,Data breach incident,2023-08-11,Main Office,Open,103,Isolate affected systems and conduct a forensic investigation.
+11,Data Breach,Data breach incident,2023-08-11,Main Office,Open,106,Initiate data breach response protocol.
+11,Data Breach,Data breach incident,2023-08-11,Main Office,Open,110,Encrypt sensitive data and enhance data security.
+11,Data Breach,Data breach incident,2023-08-11,Main Office,Open,113,Notify affected parties and authorities.
+11,Data Breach,Data breach incident,2023-08-11,Main Office,Open,116,Enhance firewall rules and access controls.
+11,Data Breach,Data breach incident,2023-08-11,Main Office,Open,119,Engage cybersecurity incident response team.
+11,Data Breach,Data breach incident,2023-08-11,Main Office,Open,122,Apply data loss prevention (DLP) measures.
+15,Data Breach,Sensitive data leak,2023-08-15,Main Office,Open,103,Isolate affected systems and conduct a forensic investigation.
+15,Data Breach,Sensitive data leak,2023-08-15,Main Office,Open,106,Initiate data breach response protocol.
+15,Data Breach,Sensitive data leak,2023-08-15,Main Office,Open,110,Encrypt sensitive data and enhance data security.
+15,Data Breach,Sensitive data leak,2023-08-15,Main Office,Open,113,Notify affected parties and authorities.
+15,Data Breach,Sensitive data leak,2023-08-15,Main Office,Open,116,Enhance firewall rules and access controls.
+15,Data Breach,Sensitive data leak,2023-08-15,Main Office,Open,119,Engage cybersecurity incident response team.
+15,Data Breach,Sensitive data leak,2023-08-15,Main Office,Open,122,Apply data loss prevention (DLP) measures.
+19,Data Breach,Data breach incident,2023-08-19,Data Center,Open,103,Isolate affected systems and conduct a forensic investigation.
+19,Data Breach,Data breach incident,2023-08-19,Data Center,Open,106,Initiate data breach response protocol.
+19,Data Breach,Data breach incident,2023-08-19,Data Center,Open,110,Encrypt sensitive data and enhance data security.
+19,Data Breach,Data breach incident,2023-08-19,Data Center,Open,113,Notify affected parties and authorities.
+19,Data Breach,Data breach incident,2023-08-19,Data Center,Open,116,Enhance firewall rules and access controls.
+19,Data Breach,Data breach incident,2023-08-19,Data Center,Open,119,Engage cybersecurity incident response team.
+19,Data Breach,Data breach incident,2023-08-19,Data Center,Open,122,Apply data loss prevention (DLP) measures.
+24,Data Breach,Data breach incident,2023-08-24,Branch Office B,Open,103,Isolate affected systems and conduct a forensic investigation.
+24,Data Breach,Data breach incident,2023-08-24,Branch Office B,Open,106,Initiate data breach response protocol.
+24,Data Breach,Data breach incident,2023-08-24,Branch Office B,Open,110,Encrypt sensitive data and enhance data security.
+24,Data Breach,Data breach incident,2023-08-24,Branch Office B,Open,113,Notify affected parties and authorities.
+24,Data Breach,Data breach incident,2023-08-24,Branch Office B,Open,116,Enhance firewall rules and access controls.
+24,Data Breach,Data breach incident,2023-08-24,Branch Office B,Open,119,Engage cybersecurity incident response team.
+24,Data Breach,Data breach incident,2023-08-24,Branch Office B,Open,122,Apply data loss prevention (DLP) measures.

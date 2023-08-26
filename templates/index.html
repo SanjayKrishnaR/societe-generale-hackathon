@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Incident Type Predictor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+        h1 {
+            text-align: center;
+            color: #007bff;
+            margin-bottom: 20px;
+        }
+        form {
+            text-align: center;
+        }
+        label {
+            font-weight: bold;
+            color: #333;
+        }
+        #description {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        input[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+        h2 {
+            text-align: center;
+            margin-top: 20px;
+            color: #007bff;
+        }
+        p {
+            text-align: center;
+            color: #007bff;
+            font-weight: bold;
+        }
+        .error {
+            color: #ff0000;
+            font-weight: bold;
+        }
+        .logo {
+            display: block;
+            margin: 20px auto;
+            max-width: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="your-image.jpg" alt="Logo" class="logo">
+        <h1>Incident Type Predictor</h1>
+        <form action="/predict" method="post">
+            <label for="description">Enter Incident Description:</label><br>
+            <textarea id="description" name="description" rows="4" cols="50"></textarea><br><br>
+            <input type="submit" value="Predict">
+        </form>
+        
+        {% if prediction %}
+        <h2>Predicted Resolution:</h2>
+        <p>{{ prediction }}</p>
+        {% endif %}
+        
+        {% if error %}
+        <h2 class="error">Error:</h2>
+        <p class="error">{{ error }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>

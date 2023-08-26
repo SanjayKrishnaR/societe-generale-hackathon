@@ -1,0 +1,26 @@
+Resolution_ID,Incident_Type,Resolution
+101,Unauthorized Access,Change access credentials and implement two-factor authentication.
+102,Denial of Service,Apply traffic filtering rules to mitigate the attack.
+103,Data Breach,Isolate affected systems and conduct a forensic investigation.
+104,Unauthorized Access,Restrict network access for the affected user account.
+105,Denial of Service,Implement rate limiting and traffic monitoring.
+106,Data Breach,Initiate data breach response protocol.
+107,Denial of Service,Redirect traffic through a DDoS mitigation service.
+108,Unauthorized Access,Enhance network access controls and monitoring.
+109,Denial of Service,Apply load balancing to distribute traffic.
+110,Data Breach,Encrypt sensitive data and enhance data security.
+111,Unauthorized Access,Implement intrusion detection and prevention.
+112,Denial of Service,Implement IP reputation filtering.
+113,Data Breach,Notify affected parties and authorities.
+114,Unauthorized Access,Conduct user access review and auditing.
+115,Denial of Service,Utilize content delivery network (CDN) for traffic distribution.
+116,Data Breach,Enhance firewall rules and access controls.
+117,Unauthorized Access,Implement security information and event management (SIEM) system.
+118,Denial of Service,Deploy anti-virus and anti-malware measures.
+119,Data Breach,Engage cybersecurity incident response team.
+120,Unauthorized Access,Enhance network segmentation.
+121,Denial of Service,Utilize intrusion prevention system (IPS).
+122,Data Breach,Apply data loss prevention (DLP) measures.
+123,Unauthorized Access,Conduct employee cybersecurity training.
+124,Denial of Service,Utilize cloud-based DDoS protection services.
+125,Unauthorized Access,Enhance authentication and authorization mechanisms.

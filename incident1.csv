@@ -1,0 +1,26 @@
+Incident_ID,Incident_Type,Description,Date,Location,Status
+1,Unauthorized Access,Unauthorized login attempt detected,2023-08-01,Main Office,Open
+2,Unauthorized Access,Intrusion detected on server,2023-08-02,Data Center,Open
+3,Denial of Service,DDoS attack on web server,2023-08-03,Main Office,Open
+4,Data Breach,Confidential data leak detected,2023-08-04,Remote Office,Open
+5,Unauthorized Access,Unauthorized access to database,2023-08-05,Main Office,Open
+6,Data Breach,Data breach incident,2023-08-06,Branch Office A,Open
+7,Denial of Service,Service disruption due to traffic spike,2023-08-07,Main Office,Open
+8,Unauthorized Access,Unauthorized user login,2023-08-08,Data Center,Open
+9,Denial of Service,DDoS attack on email server,2023-08-09,Branch Office B,Open
+10,Unauthorized Access,Attempted intrusion on firewall,2023-08-10,Remote Office,Open
+11,Data Breach,Data breach incident,2023-08-11,Main Office,Open
+12,Unauthorized Access,Unauthorized access to server,2023-08-12,Branch Office A,Open
+13,Unauthorized Access,Intrusion detected on network,2023-08-13,Main Office,Open
+14,Denial of Service,Service disruption due to resource exhaustion,2023-08-14,Data Center,Open
+15,Data Breach,Sensitive data leak,2023-08-15,Main Office,Open
+16,Unauthorized Access,Unauthorized login attempt detected,2023-08-16,Remote Office,Open
+17,Denial of Service,DDoS attack on DNS server,2023-08-17,Branch Office B,Open
+18,Unauthorized Access,Unauthorized user login,2023-08-18,Main Office,Open
+19,Data Breach,Data breach incident,2023-08-19,Data Center,Open
+20,Denial of Service,Service disruption due to amplification attack,2023-08-20,Main Office,Open
+21,Unauthorized Access,Unauthorized access to sensitive data,2023-08-21,Branch Office A,Open
+22,Denial of Service,Service disruption due to botnet attack,2023-08-22,Remote Office,Open
+23,Unauthorized Access,Unauthorized login attempt detected,2023-08-23,Main Office,Open
+24,Data Breach,Data breach incident,2023-08-24,Branch Office B,Open
+25,Unauthorized Access,Intrusion detected on firewall,2023-08-25,Main Office,Open

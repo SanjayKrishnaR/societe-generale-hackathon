@@ -1,0 +1,26 @@
+History_ID,Incident_ID,Resolution_ID,Resolution_Date,Resolution_Result
+1,1,101,02-08-2023,Unauthorized login attempt blocked.
+2,2,102,03-08-2023,DDoS traffic filtered to mitigate the attack.
+3,3,103,04-08-2023,Data leak source isolated and under investigation.
+4,4,104,05-08-2023,Access for the affected user account revoked.
+5,5,105,06-08-2023,Rate limiting implemented to reduce impact.
+6,6,106,07-08-2023,Data breach response initiated.
+7,7,107,08-08-2023,Traffic redirected through DDoS mitigation service.
+8,8,108,09-08-2023,Network access controls and monitoring enhanced.
+9,9,109,10-08-2023,Load balancing applied to distribute traffic.
+10,10,110,11-08-2023,Sensitive data encrypted and security enhanced.
+11,11,111,12-08-2023,Intrusion detection and prevention system deployed.
+12,12,112,13-08-2023,IP reputation filtering implemented.
+13,13,113,14-08-2023,Affected parties and authorities notified.
+14,14,114,15-08-2023,User access review and auditing conducted.
+15,15,115,16-08-2023,Content delivery network (CDN) used for traffic distribution.
+16,16,116,17-08-2023,Firewall rules and access controls enhanced.
+17,17,117,18-08-2023,Security information and event management (SIEM) system deployed.
+18,18,118,19-08-2023,Anti-virus and anti-malware measures in place.
+19,19,119,20-08-2023,Cybersecurity incident response team engaged.
+20,20,120,21-08-2023,Network segmentation enhanced.
+21,21,121,22-08-2023,Intrusion prevention system (IPS) utilized.
+22,22,122,23-08-2023,Data loss prevention (DLP) measures applied.
+23,23,123,24-08-2023,Employee cybersecurity training conducted.
+24,24,124,25-08-2023,Cloud-based DDoS protection services utilized.
+25,25,125,26-08-2023,Authentication and authorization mechanisms enhanced.
